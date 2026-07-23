@@ -38,7 +38,7 @@ Python • Selenium • Google Gemini API • SMTP • python-dotenv
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/internet-complaint-bot.git
+git clone https://github.com/Jyoti-Ranjan-Rout/internet-complaint-bot.git
 cd internet-complaint-bot
 pip install -r requirements.txt
 ```
